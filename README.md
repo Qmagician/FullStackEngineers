@@ -1,4 +1,6 @@
-### &lt;center&gt;全栈工程师修炼之路&lt;center&gt;
+```
+<center>全栈工程师修炼之路<center>
+```
 
 # 序
 
